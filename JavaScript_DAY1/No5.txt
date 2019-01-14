@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Finding the area of a trapezium</h2>
+
+<script>
+var a = prompt("Enter base of trapezium",3);
+var a = parseInt(a,10);
+
+var b = parseInt(prompt("Enter 2nd length of trapezium",4),10);
+var h = parseInt(prompt("Enter height of trapezium",6),10);
+
+area = (0.5)*h*(a+b)
+
+document.write("The area is ", +area);
+</script>
+
+</body>
+</html>

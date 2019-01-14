@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Finding the Average</h2>
+
+<script>
+var x = prompt("Enter number",5);
+var x = parseInt(x,10);
+
+var y = parseInt(prompt("Enter number",2),10);
+var z = (x + y)/2;
+document.write("The average is ", +z)
+</script>
+
+</body>
+</html>

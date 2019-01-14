@@ -1,0 +1,12 @@
+<html>
+<head>
+  <title>Multiplication Table</title>
+  <script type="text/javascript">
+ var x = "Hello";
+ var Age = prompt("Please Enter your Age", "");
+ document.write("Your age is " +Age);  
+  </script>
+</head>
+<body>
+</body>
+</html>
